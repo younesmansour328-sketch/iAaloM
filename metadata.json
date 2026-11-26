@@ -1,0 +1,6 @@
+{
+  "name": "MelonEditor",
+  "description": "Mobile pro non-linear video editor inspired by Adobe Premiere Pro and DaVinci Resolve with multi-track timeline, color grading, audio mixing, and Media3 hardware export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

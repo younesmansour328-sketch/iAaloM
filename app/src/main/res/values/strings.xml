@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MelonEditor</string>
+    <string name="studio_tagline">استوديو المونتاج وتصحيح الألوان الاحترافي للهاتف</string>
+    <string name="new_project">مشروع جديد</string>
+    <string name="import_media">استيراد وسائط</string>
+    <string name="try_demo_project">مشروع تجريبي</string>
+    <string name="recent_projects">المشاريع الأخيرة</string>
+    <string name="no_projects_title">ابدأ تحفتك السينمائية الأولى</string>
+    <string name="no_projects_subtitle">أنشئ مشروعاً جديداً واستورد مقاطع الفيديو والصور أو جرب المشروع التجريبي المدمج</string>
+    <string name="export">تصدير</string>
+    <string name="export_video">تصدير الفيديو</string>
+    <string name="undo">تراجع</string>
+    <string name="redo">إعادة</string>
+    <string name="split">تقسيم</string>
+    <string name="trim">تشذيب</string>
+    <string name="speed">السرعة</string>
+    <string name="rotate">تدوير</string>
+    <string name="duplicate">تكرار</string>
+    <string name="delete">حذف</string>
+    <string name="tab_edit">القص</string>
+    <string name="tab_color">الألوان</string>
+    <string name="tab_audio">الصوت</string>
+    <string name="tab_titles">النصوص</string>
+    <string name="tab_canvas">الإطار</string>
+    <string name="add_music">إضافة موسيقى</string>
+    <string name="add_title">إضافة نص</string>
+    <string name="reset">إعادة ضبط</string>
+    <string name="share">مشاركة</string>
+    <string name="cancel">إلغاء</string>
+    <string name="done">تم</string>
+</resources>
